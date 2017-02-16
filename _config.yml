@@ -117,7 +117,7 @@ disqus:
 
 username: ccc77
 baseurl: /blog
-markdown: redcarpet
+markdown: kramdown
 safe: false
 highlighter: pygments
 title: 四季
